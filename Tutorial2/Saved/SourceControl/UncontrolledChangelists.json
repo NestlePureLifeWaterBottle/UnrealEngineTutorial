@@ -5,13 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Github/UnrealEngineTutorial/Tutorial2/Content/Blueprints/Turret/turret_blueprint.uasset",
-				"D:/Github/UnrealEngineTutorial/Tutorial2/Content/__ExternalActors__/NewMap1/8/BS/K0PSXX9019JUCGGPQ3DCKM.uasset",
-				"D:/Github/UnrealEngineTutorial/Tutorial2/Content/Blueprints/Turret/BP_Bullet.uasset",
-				"D:/Github/UnrealEngineTutorial/Tutorial2/Content/Blueprints/Turret/BP_Turret.uasset",
-				"D:/Github/UnrealEngineTutorial/Tutorial2/Content/__ExternalActors__/NewMap1/6/KZ/04Q39J2AXMQPXMCMJNJWY2.uasset",
-				"D:/Github/UnrealEngineTutorial/Tutorial2/Content/__ExternalActors__/NewMap1/A/ZS/G4NH8V8N7YZNSIXDLT9I1I.uasset",
-				"D:/Github/UnrealEngineTutorial/Tutorial2/Content/Blueprints/Player/BP_FPCharacter.uasset",
 				"C:/Users/Andrew/Documents/GitHub/UnrealEngineTutorial/Tutorial2/Content/Blueprints/Player/BP_FPCharacter.uasset",
 				"C:/Users/Andrew/Documents/GitHub/UnrealEngineTutorial/Tutorial2/Content/Blueprints/Player/InputActions/IA_Move.uasset",
 				"C:/Users/Andrew/Documents/GitHub/UnrealEngineTutorial/Tutorial2/Content/NewMap_HLOD0_Instancing.uasset",
@@ -403,7 +396,6 @@
 				"C:/Users/Andrew/Documents/GitHub/UnrealEngineTutorial/Tutorial2/Content/__ExternalActors__/NewMap1/9/XT/DQ59KZDGJW0WZO50LJ7JPJ.uasset",
 				"C:/Users/Andrew/Documents/GitHub/UnrealEngineTutorial/Tutorial2/Content/__ExternalActors__/NewMap1/6/VE/G4XATKWY69IESR82WRXX9B.uasset",
 				"C:/Users/Andrew/Documents/GitHub/UnrealEngineTutorial/Tutorial2/Content/__ExternalActors__/NewMap1/6/FE/L5HM5ZYFE4SPSDGNVGJLQ1.uasset",
-				"C:/Users/Andrew/Documents/GitHub/UnrealEngineTutorial/Tutorial2/Content/__ExternalActors__/NewMap1/8/BS/K0PSXX9019JUCGGPQ3DCKM.uasset",
 				"C:/Users/Andrew/Documents/GitHub/UnrealEngineTutorial/Tutorial2/Content/__ExternalObjects__/NewMap1/7/0O/YU6ZLU439G9UPVYYGKTY3F.uasset",
 				"C:/Users/Andrew/Documents/GitHub/UnrealEngineTutorial/Tutorial2/Content/__ExternalObjects__/NewMap1/E/9Y/G85J49Z5AJ1W730HXZX4B8.uasset",
 				"C:/Users/Andrew/Documents/GitHub/UnrealEngineTutorial/Tutorial2/Content/__ExternalObjects__/NewMap1/A/49/O0IU8V4O0C1CERGRMTKZIY.uasset",
@@ -411,7 +403,20 @@
 				"C:/Users/Andrew/Documents/GitHub/UnrealEngineTutorial/Tutorial2/Content/__ExternalObjects__/NewMap1/D/N8/4K31LO8TR4AQPPSQC4JZV9.uasset",
 				"C:/Users/Andrew/Documents/GitHub/UnrealEngineTutorial/Tutorial2/Content/NewMap1.umap",
 				"C:/Users/Andrew/Documents/GitHub/UnrealEngineTutorial/Tutorial2/Content/__ExternalActors__/NewMap1/8/35/TUHPCEWI3LHC9P26WOLPPQ.uasset",
-				"C:/Users/Andrew/Documents/GitHub/UnrealEngineTutorial/Tutorial2/Content/__ExternalActors__/NewMap1/A/ZS/G4NH8V8N7YZNSIXDLT9I1I.uasset"
+				"C:/Users/Andrew/Documents/GitHub/UnrealEngineTutorial/Tutorial2/Content/__ExternalActors__/NewMap1/A/ZS/G4NH8V8N7YZNSIXDLT9I1I.uasset",
+				"C:/Users/Andrew/Documents/GitHub/UnrealEngineTutorial/Tutorial2/Content/Blueprints/Turret/BP_Bullet.uasset",
+				"C:/Users/Andrew/Documents/GitHub/UnrealEngineTutorial/Tutorial2/Content/__ExternalActors__/NewMap1/6/KZ/04Q39J2AXMQPXMCMJNJWY2.uasset",
+				"C:/Users/Andrew/Documents/GitHub/UnrealEngineTutorial/Tutorial2/Content/models/Turret_Base.uasset",
+				"C:/Users/Andrew/Documents/GitHub/UnrealEngineTutorial/Tutorial2/Content/__ExternalActors__/NewMap1/6/Y8/RJJJ3SHRW0GO6FZUSKAOIS.uasset",
+				"C:/Users/Andrew/Documents/GitHub/UnrealEngineTutorial/Tutorial2/Content/models/Turret_Head.uasset",
+				"D:/Github/UnrealEngineTutorial/Tutorial2/Content/Blueprints/Turret/turret_blueprint.uasset",
+				"D:/Github/UnrealEngineTutorial/Tutorial2/Content/__ExternalActors__/NewMap1/8/BS/K0PSXX9019JUCGGPQ3DCKM.uasset",
+				"D:/Github/UnrealEngineTutorial/Tutorial2/Content/Blueprints/Turret/BP_Bullet.uasset",
+				"D:/Github/UnrealEngineTutorial/Tutorial2/Content/Blueprints/Turret/BP_Turret.uasset",
+				"D:/Github/UnrealEngineTutorial/Tutorial2/Content/__ExternalActors__/NewMap1/6/KZ/04Q39J2AXMQPXMCMJNJWY2.uasset",
+				"D:/Github/UnrealEngineTutorial/Tutorial2/Content/__ExternalActors__/NewMap1/A/ZS/G4NH8V8N7YZNSIXDLT9I1I.uasset",
+				"D:/Github/UnrealEngineTutorial/Tutorial2/Content/Blueprints/Player/BP_FPCharacter.uasset",
+				"C:/Users/Andrew/Documents/GitHub/UnrealEngineTutorial/Tutorial2/Content/__ExternalActors__/NewMap1/8/BS/K0PSXX9019JUCGGPQ3DCKM.uasset"
 			]
 		}
 	]
