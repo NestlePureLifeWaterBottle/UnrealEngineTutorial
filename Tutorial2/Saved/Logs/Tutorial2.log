@@ -3219,3 +3219,52 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.16-00.50.23:812][672]LogFileHelpers: InternalPromptForCheckoutAndSave took 627 ms (total: 4.03 sec)
 [2023.10.16-00.50.23:816][672]AssetCheck: New page: Asset Save: newLevel
 [2023.10.16-00.50.23:816][672]LogContentValidation: Display: Validating /Script/Engine.World /Game/newLevel.newLevel
+[2023.10.16-01.19.16:536][283]LogAutomationController: Ignoring very large delta of 2.70 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.16-01.20.55:812][581]LogDerivedDataCache: C:/Users/Andrew/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:04:58.011 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3670 files in 5241 folders with total size 276 MiB.
+[2023.10.16-01.31.46:604][976]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-01.31.46:605][976]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-01.31.46:605][976]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-01.31.46:606][976]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-01.31.46:606][976]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-01.31.46:607][976]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-01.31.46:607][976]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-01.31.46:607][976]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-01.31.46:608][976]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-01.31.46:608][976]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-01.31.46:617][977]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-01.35.50:709][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.10.16-01.35.50:742][293]LogStall: Shutdown...
+[2023.10.16-01.35.50:747][293]LogStall: Shutdown complete.
+[2023.10.16-01.35.51:082][293]LogSlate: Window 'Tutorial2 - Unreal Editor' being destroyed
+[2023.10.16-01.35.51:432][294]Cmd: QUIT_EDITOR
+[2023.10.16-01.35.51:435][294]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.10.16-01.35.51:584][294]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.10.16-01.35.51:617][294]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.10.16-01.35.51:617][294]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.10.16-01.35.51:706][294]LogWorld: UWorld::CleanupWorld for newLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.16-01.35.51:706][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.16-01.35.52:053][294]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.10.16-01.35.52:221][294]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.10.16-01.35.52:918][294]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.10.16-01.35.52:918][294]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.10.16-01.35.52:918][294]LogAudio: Display: Audio Device unregistered from world 'newLevel'.
+[2023.10.16-01.35.52:928][294]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.10.16-01.35.52:976][294]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.10.16-01.35.52:979][294]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.10.16-01.35.53:028][294]LogAudio: Display: Audio Device Manager Shutdown
+[2023.10.16-01.35.53:063][294]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.10.16-01.35.53:072][294]LogExit: Preparing to exit.
+[2023.10.16-01.35.53:646][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.10.16-01.35.55:855][294]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.16-01.35.55:954][294]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.10.16-01.35.55:954][294]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.10.16-01.35.55:954][294]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.10.16-01.35.55:954][294]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.10.16-01.35.55:954][294]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.10.16-01.35.55:954][294]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.10.16-01.35.55:954][294]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.10.16-01.35.55:954][294]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.10.16-01.35.55:954][294]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.10.16-01.35.58:948][294]LogExit: Editor shut down
+[2023.10.16-01.35.59:288][294]LogExit: Transaction tracking system shut down
+[2023.10.16-01.35.59:527][294]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
