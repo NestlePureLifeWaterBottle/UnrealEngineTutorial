@@ -285,7 +285,10 @@ D:\Github\UnrealEngineTutorial\Tutorial2\Source\Tutorial2\Private\LightSwitch.cp
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tutorial2\Definitions.h"
+/FI"D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\Tutorial2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/FI"D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tutorial2\Definitions.Tutorial2.h"
+/Yu"D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\Tutorial2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/Fp"D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\Tutorial2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
 /Fo"D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tutorial2\LightSwitch.cpp.obj"
 /sourceDependencies D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tutorial2\LightSwitch.cpp.dep.json
 /Zc:inline

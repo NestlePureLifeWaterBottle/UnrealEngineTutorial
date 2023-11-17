@@ -35,9 +35,11 @@
 /FUNCTIONPADMIN:6
 "D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\Tutorial2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
 "D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tutorial2\CameraDirector.gen.cpp.obj"
+"D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tutorial2\LightSwitch.gen.cpp.obj"
 "D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tutorial2\Tutorial2.init.gen.cpp.obj"
 "D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tutorial2\CameraDirector.cpp.obj"
 "D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tutorial2\Tutorial2.cpp.obj"
+"D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tutorial2\LightSwitch.cpp.obj"
 "D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tutorial2\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"

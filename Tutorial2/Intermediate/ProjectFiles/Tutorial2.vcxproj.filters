@@ -60,12 +60,18 @@
     <Filter Include="Source\Tutorial2\Private">
       <UniqueIdentifier>{D4580C57-5E1C-3A34-8CFC-A4B5DB47E03A}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Tutorial2\Private\Door.cpp">
+      <Filter>Source\Tutorial2\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Tutorial2\Private\LightSwitch.cpp">
       <Filter>Source\Tutorial2\Private</Filter>
     </ClCompile>
     <Filter Include="Source\Tutorial2\Public">
       <UniqueIdentifier>{C15F9CE7-C02D-3AD0-907F-1EDB246A73C4}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\Tutorial2\Public\Door.h">
+      <Filter>Source\Tutorial2\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\Tutorial2\Public\LightSwitch.h">
       <Filter>Source\Tutorial2\Public</Filter>
     </ClInclude>
