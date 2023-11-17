@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Tutorial2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\Tutorial2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tutorial2\CameraDirector.gen.cpp.obj"
+"D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tutorial2\LightSwitch.gen.cpp.obj"
+"D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tutorial2\Tutorial2.init.gen.cpp.obj"
+"D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tutorial2\CameraDirector.cpp.obj"
+"D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tutorial2\Tutorial2.cpp.obj"
+"D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tutorial2\LightSwitch.cpp.obj"
+"D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tutorial2\Default.rc2.res"
+/OUT:"D:\Github\UnrealEngineTutorial\Tutorial2\Intermediate\Build\Win64\x64\UnrealEditor\Development\Tutorial2\UnrealEditor-Tutorial2.lib"

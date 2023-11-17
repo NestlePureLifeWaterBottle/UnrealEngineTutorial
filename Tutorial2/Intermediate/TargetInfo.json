@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Tutorial2",
+			"Path": "D:\\Github\\UnrealEngineTutorial\\Tutorial2\\Source\\Tutorial2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Tutorial2Editor",
+			"Path": "D:\\Github\\UnrealEngineTutorial\\Tutorial2\\Source\\Tutorial2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Github\\UnrealEngineTutorial\\Tutorial2\\Source\\Tutorial2\\Tutorial2.Build.cs",
+		"D:\\Github\\UnrealEngineTutorial\\Tutorial2\\Source\\Tutorial2.Target.cs",
+		"D:\\Github\\UnrealEngineTutorial\\Tutorial2\\Source\\Tutorial2Editor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

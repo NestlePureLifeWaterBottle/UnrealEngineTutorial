@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\unrealenginetutorial\\tutorial2\\intermediate\\build\\win64\\unrealeditor\\inc\\tutorial2\\uht\\cameradirector.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\unrealenginetutorial\\tutorial2\\intermediate\\build\\win64\\x64\\tutorial2editor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\github\\unrealenginetutorial\\tutorial2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tutorial2\\definitions.tutorial2.h",
+            "d:\\github\\unrealenginetutorial\\tutorial2\\source\\tutorial2\\cameradirector.h",
+            "d:\\github\\unrealenginetutorial\\tutorial2\\intermediate\\build\\win64\\unrealeditor\\inc\\tutorial2\\uht\\cameradirector.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
